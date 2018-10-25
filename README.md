@@ -1,5 +1,3 @@
 # hello-world
-LabDemo
 
-Update 14
-Update from Dev1
+Merging updates from dev2 and dev1
